@@ -6,7 +6,11 @@
     But as long as it works, that's what matters. Goodbye!
 ```
 
-- Coding from
+- Profile
+  - [My profile leekcode](https://leetcode.com/nguyentrantien752/)
+  - Discord: zlynx.dev
+  - Facebook: zlynx.dev
+  - Telegram: NULL
 
 ```text
   _______  __
